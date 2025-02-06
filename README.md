@@ -3,7 +3,7 @@ Sourcery Academy code
 
 ## Bonus task:
 Run command: 
-``java Main ``*<inputString>*
+``java Main ``*inputString*
 Example: 
 ``java Main aaabb``  
 would provide the input string "aaabb".
